@@ -3,9 +3,7 @@
     "description": "cargo-lambda is a Cargo subcommand to help you work with AWS Lambda.",
     "homepage": "https://github.com/cargo-lambda/cargo-lambda",
     "license": "MIT",
-    "depends": {
-        "Zig": "zig"
-    },
+    "depends": "zig",
     "architecture": {
         "64bit": {
             "url": "https://github.com/cargo-lambda/cargo-lambda/releases/download/v0.8.3/cargo-lambda-v0.8.3.windows-x64.zip",
