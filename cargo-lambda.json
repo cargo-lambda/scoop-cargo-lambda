@@ -1,13 +1,13 @@
 {
-    "version": "1.6.0",
+    "version": "1.6.1",
     "description": "Cargo Lambda is a Cargo subcommand to help you work with AWS Lambda.",
     "homepage": "https://github.com/cargo-lambda/cargo-lambda",
     "license": "MIT",
     "depends": "zig",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/cargo-lambda/cargo-lambda/releases/download/v1.6.0/cargo-lambda-v1.6.0.windows-x64.zip",
-            "hash": "34575d24c7ca49256611795ec14451fd2263a17383059307919b03991df15ab5"
+            "url": "https://github.com/cargo-lambda/cargo-lambda/releases/download/v1.6.1/cargo-lambda-v1.6.1.windows-x64.zip",
+            "hash": "7cd12c6d6c85905354b9dfd2b0b255ef7b34f4fec86697868fd33ab8764ba801"
         }
     },
     "bin": "cargo-lambda.exe"
